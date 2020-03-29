@@ -1,0 +1,6 @@
+Word: what!      Count: 1
+Word: doing      Count: 2
+Word: what       Count: 2
+Word: are        Count: 3
+Word: hey        Count: 3
+Word: you        Count: 1
